@@ -1,0 +1,17 @@
+{
+  "name": "gruntworkflows",
+  "version": "1.0.0",
+  "description": "Project for Grunt Workfkows Course",
+  "author": "Abhishek Wadalkar",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "^1.6.1",
+    "grunt-bower-concat": "^1.0.0",
+    "grunt-contrib-concat": "^2.1.0",
+    "grunt-contrib-connect": "^4.0.0",
+    "grunt-contrib-watch": "^1.1.0",
+    "grunt-sass": "^3.1.0",
+    "grunt-wiredep": "^3.0.1",
+    "node-sass": "^9.0.0"
+  }
+}

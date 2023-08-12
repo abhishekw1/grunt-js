@@ -1,0 +1,22 @@
+{
+  "name": "gruntworkflows",
+  "description": "Project using grunt and bower",
+  "main": "",
+  "authors": [
+    "Abhishek Wadalkar"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/planetoftheweb/gruntworkflows",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^5.3.1",
+    "mustache": "^4.2.0"
+  }
+}
